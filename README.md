@@ -1,2 +1,4 @@
 # simple-pcinfo-app
-simple-pcinfo-app-with-node-js
+
+Simple Pc Info App with Node.js 
+Used OS And FileSystem Modules
