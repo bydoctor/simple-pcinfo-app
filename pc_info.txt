@@ -1,1 +1,1 @@
-Toplam Ram : 8.00 | Kullanılan Ram : 7.40 | Free Ram : 0.60 | Cpu Sayısı : 8
+Toplam Ram : 0 | Kullanılan Ram : 0 | Free Ram : 0 | Cpu Sayısı : 0
